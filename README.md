@@ -36,6 +36,10 @@ Se a ficha física oficial tiver outra interpretação para esses três casos, a
 4. O botão de conclusão só é liberado após todos os itens serem marcados.
 5. O sistema exibe a nota nominal do aluno e o detalhamento dos critérios.
 
+## Identidade visual
+
+O aplicativo possui ícone próprio em `app-icon-192.png`, usado no cabeçalho, favicon e instalação como aplicativo/PWA.
+
 ## Testes
 
 ```bash
